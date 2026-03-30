@@ -18,30 +18,6 @@ filmbot/
     └── genres.json     # 12 жанра с описания
 ```
 
-## Колекции в Weaviate
-
-### Movies
-| Поле | Тип | Описание |
-|------|-----|----------|
-| title | TEXT | Заглавие |
-| description | TEXT | Описание на сюжета (векторизирано) |
-| year | INT | Година на издаване |
-| rating | NUMBER | IMDb рейтинг (0-10) |
-| director | TEXT | Режисьор |
-| country | TEXT | Държава |
-| language | TEXT | Език |
-| genre | TEXT | Жанр |
-| duration_min | INT | Продължителност (мин) |
-
-### Genres
-| Поле | Тип | Описание |
-|------|-----|----------|
-| name | TEXT | Наименование |
-| description | TEXT | Описание (векторизирано) |
-| typical_themes | TEXT | Типични теми |
-| popular_decades | TEXT | Популярни десетилетия |
-| avg_rating | NUMBER | Среден рейтинг |
-| mood | TEXT | Настроение |
 
 ## Инсталация
 
@@ -63,12 +39,6 @@ venv\Scripts\activate         # Windows
 
 ```bash
 pip install -r requirements.txt
-```
-
-### 4. Конфигурирай API ключовете
-
-```bash
-cp .env.example .env
 ```
 
 Редактирай `.env` и попълни:
@@ -111,9 +81,3 @@ streamlit run app.py
 
 - **Query Agent** — приема естествен език, избира колекции, изпълнява заявки
 - **Personalization Agent** — създава потребителски профили и дава персонализирани препоръки
-
-## Бележки
-
-- Данните се зареждат автоматично при първо стартиране ако колекциите са празни
-- Не качвай `.env` файла в Git — той е добавен в `.gitignore`
-- Query Agent поддържа контекст за follow-up въпроси в рамките на сесията
