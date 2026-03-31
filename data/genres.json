@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Drama",
+    "description": "Films focused on realistic storytelling, emotional themes and character development. Explores the human condition through conflict and growth.",
+    "typical_themes": "Family conflicts, personal struggles, moral dilemmas, redemption, identity",
+    "popular_decades": "1970s, 1990s, 2010s",
+    "avg_rating": 8.3,
+    "mood": "Emotional, thought-provoking, intense"
+  },
+  {
+    "name": "Sci-Fi",
+    "description": "Science fiction films explore futuristic concepts, advanced technology, space exploration, time travel and extraterrestrial life.",
+    "typical_themes": "Artificial intelligence, space exploration, dystopian futures, time travel, humanity vs technology",
+    "popular_decades": "1980s, 1990s, 2010s",
+    "avg_rating": 8.2,
+    "mood": "Thought-provoking, adventurous, visually stunning"
+  },
+  {
+    "name": "Crime",
+    "description": "Films centered around criminal activities, organized crime, heists, investigations and the moral gray areas of law and order.",
+    "typical_themes": "Power, loyalty, betrayal, justice, corruption, the criminal underworld",
+    "popular_decades": "1970s, 1990s, 2000s",
+    "avg_rating": 8.5,
+    "mood": "Tense, gritty, stylish"
+  },
+  {
+    "name": "Action",
+    "description": "High-energy films featuring physical feats, chase sequences, fights, explosions and adrenaline-pumping scenarios.",
+    "typical_themes": "Good vs evil, survival, heroism, revenge, justice",
+    "popular_decades": "1980s, 1990s, 2000s",
+    "avg_rating": 8.1,
+    "mood": "Exciting, thrilling, energetic"
+  },
+  {
+    "name": "Thriller",
+    "description": "Films designed to create suspense, excitement and anxiety. Often involve mystery, danger and unexpected plot twists.",
+    "typical_themes": "Conspiracy, psychological manipulation, survival, identity, trust",
+    "popular_decades": "1990s, 2000s, 2010s",
+    "avg_rating": 8.0,
+    "mood": "Suspenseful, tense, gripping"
+  },
+  {
+    "name": "Animation",
+    "description": "Films created using animation techniques. Spans all ages and genres — from family-friendly to mature artistic works.",
+    "typical_themes": "Coming of age, friendship, family, imagination, overcoming fear",
+    "popular_decades": "1990s, 2000s, 2010s",
+    "avg_rating": 8.3,
+    "mood": "Imaginative, emotional, visually rich"
+  },
+  {
+    "name": "Horror",
+    "description": "Films intended to frighten, unsettle and disturb. Ranges from supernatural terror to psychological horror and body horror.",
+    "typical_themes": "Fear of the unknown, death, isolation, paranoia, supernatural forces",
+    "popular_decades": "1980s, 2010s",
+    "avg_rating": 7.3,
+    "mood": "Scary, unsettling, atmospheric"
+  },
+  {
+    "name": "Comedy",
+    "description": "Films primarily designed to amuse and make audiences laugh through situations, dialogue and characters.",
+    "typical_themes": "Social commentary, relationships, identity, absurdity, everyday life",
+    "popular_decades": "1980s, 1990s, 2000s",
+    "avg_rating": 8.0,
+    "mood": "Fun, light-hearted, witty"
+  },
+  {
+    "name": "Romance",
+    "description": "Films focusing on love stories, relationships and emotional connections between characters.",
+    "typical_themes": "Love, heartbreak, sacrifice, destiny, cultural differences",
+    "popular_decades": "1990s, 2000s, 2010s",
+    "avg_rating": 8.2,
+    "mood": "Emotional, warm, beautiful"
+  },
+  {
+    "name": "War",
+    "description": "Films set during wartime that explore military conflict, the human cost of war and the moral complexities of combat.",
+    "typical_themes": "Sacrifice, brotherhood, morality of war, survival, trauma, heroism",
+    "popular_decades": "1940s, 1970s, 1990s, 2010s",
+    "avg_rating": 8.1,
+    "mood": "Intense, emotional, visceral"
+  },
+  {
+    "name": "Western",
+    "description": "Films set in the American West, exploring frontier life, cowboys, outlaws, and the mythology of the Wild West.",
+    "typical_themes": "Justice, freedom, survival, moral ambiguity, civilization vs wilderness",
+    "popular_decades": "1950s, 1960s, 1970s",
+    "avg_rating": 8.4,
+    "mood": "Atmospheric, tense, epic"
+  },
+  {
+    "name": "Fantasy",
+    "description": "Films featuring magical elements, mythical creatures and imaginary worlds beyond the boundaries of reality.",
+    "typical_themes": "Good vs evil, mythology, heroic quests, magic, identity",
+    "popular_decades": "2000s, 2010s",
+    "avg_rating": 8.2,
+    "mood": "Magical, imaginative, epic"
+  }
+]
